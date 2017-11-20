@@ -15,3 +15,7 @@ ul{
   font-family:"Iskoola Pota";
   
 }
+
+body{border: 5px solid red;}
+
+hr{color:blue;}
